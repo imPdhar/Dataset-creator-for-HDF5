@@ -1,14 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-
-
-
-# In[2]:
-
 
 import h5py
 import os
@@ -80,14 +72,6 @@ if __name__ == "__main__":
     plt.imshow(decoded_img)
     plt.show()
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
