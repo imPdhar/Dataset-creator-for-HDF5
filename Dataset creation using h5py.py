@@ -12,8 +12,8 @@ import matplotlib.pylab as plt
 from tqdm.auto import tqdm
 
 
-images = 'C:\\Users\\Bapu Pruthvidhar\\Desktop\\Alien vs Predator classifier\\data'
-dataset_name = 'C:\\Users\\Bapu Pruthvidhar\\Desktop\\Alien vs Predator classifier\\dataset.h5'
+images = '\\data'
+dataset_name = '\\dataset.h5'
 
 
 
